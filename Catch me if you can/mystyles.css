@@ -1,0 +1,12 @@
+.box{
+height: 100px;
+width:100px;
+background-color: aquamarine;
+position: relative;
+/* transition:all 3s; */
+}
+.text{
+text-align: center;
+position:relative;
+top:40px;
+}
